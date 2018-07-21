@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<ConfigInfo>
+  <Env name="Local">
+      <EnvPath>;jasperstarter_bin_path</EnvPath>
+      <RootDir>deploy_folder_path\</RootDir>
+      <inputJrxmlDir>Input\</inputJrxmlDir>
+      <OutputPdfDir>deploy_folder_path\</OutputPdfDir>
+   </Env>
+</ConfigInfo>
