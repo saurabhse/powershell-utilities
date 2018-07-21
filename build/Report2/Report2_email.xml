@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<emails>
+    <email env="Local">
+        <from></from>
+        <toAddr>
+          <to></to>
+          <to></to>
+        </toAddr>
+        <subject></subject>
+        <body>(#today)</body>
+        <attachments>
+            <attachment>.pdf</attachment>
+        </attachments>
+    </email
+
+</emails>
