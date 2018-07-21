@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<ConfigInfo>
+  <Env name="Local">
+      <jreDir>;jasperstarter_bin_path</jreDir>
+      <pdfmergeDir>merge_pdf_jar_path</pdfmergeDir>
+      <ldriveDir>deploy_folder_path</ldriveDir>
+      <inputPdfDir>\Input</inputPdfDir>
+      <outputPdfDir>\Output\ReportPdfs</outputPdfDir>
+      
+   </Env>
+</ConfigInfo>
