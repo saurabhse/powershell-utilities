@@ -1,0 +1,18 @@
+
+<?xml version="1.0"  encoding"utf-8"?>
+<archive>
+    <reports>
+            <report>
+              <name></name>
+              <type></type>
+              <extension></extension>
+              <reportName></reportName>
+            </report>
+    </reports>
+    <excludeFolders>
+                <folderName></folderName>
+    </excludeFolders>
+    <filesToRemove>
+          <name></name>
+    </filesToRemove>
+</archive>
