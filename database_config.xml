@@ -1,0 +1,11 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<ConfigInfo>
+  <Env name="Local">
+      <hostName></hostName>
+      <user></user>
+      <pwd></pwd>
+      <serviceName></serviceName>
+      <port></port>
+      <sid></sid>
+   </Env>
+</ConfigInfo>
