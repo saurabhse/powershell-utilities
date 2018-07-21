@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<ConfigInfo>
+  <Env name="Local">
+      <SMTPServer></SMTPServer>
+      <SMTPPort></SMTPPort>
+      
+   </Env>
+</ConfigInfo>
