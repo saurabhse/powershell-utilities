@@ -1,0 +1,47 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<items>
+  <item generate="Y">
+      <parameters>
+        <parameter>
+            <seqNo>2</seqNo>
+            <type>*</type>
+            <name></name>
+            <value></value>
+        </parameter>
+        <parameter>
+            <seqNo>2</seqNo>
+            
+            <name>page</name>
+            <value>1</value>
+        </parameter>
+        <parameter>
+            <seqNo>1</seqNo>
+          
+            <name>PgNum</name>
+            <value>010</value>
+        </parameter>
+      </parameters>
+  </item>
+<item generate="N">
+      <parameters>
+        <parameter>
+            <seqNo>2</seqNo>
+            <type>query</type>
+            <name></name>
+            <value></value>
+        </parameter>
+        <parameter>
+            <seqNo>2</seqNo>
+            
+            <name>page</name>
+            <value>1</value>
+        </parameter>
+        <parameter>
+            <seqNo>1</seqNo>
+          
+            <name>PgNum</name>
+            <value>012</value>
+        </parameter>
+      </parameters>
+  </item>
+</items>
