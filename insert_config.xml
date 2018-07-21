@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<configuration>
+  <connectionStrings>
+  <add name="Local" connectionString="Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=)(PORT=))(CONNECT_DATA=(SERVICE_NAME=)));User Id=;Password=" maxAttempts="12" waitTime="20"/>
+      
+   <DateCheck name="" tableName="" queryString="" queryString1="" queryString2="" queryString3=""/>
+   </connectionStrings>
+</configuration>
