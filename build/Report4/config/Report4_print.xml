@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<print>
+  <printReports envi="Local">
+      <report>
+          <dayToPrint>Monday,Tuesday</dayToPrint>
+          <file>.pdf</file>
+      </report>
+  </printReports>
+</print>
