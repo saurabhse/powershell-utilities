@@ -1,0 +1,25 @@
+<?xml version="1.0"  encoding"utf-8"?>
+<combiner>
+  <combinedReport>
+    <pageFormat>PAGENUM.RIGHT</pageFormat>
+    <includeReports>
+      <report include="Y" mandatory="Y">
+        <name></name>
+        <ext>.pdf</ext>
+        <seq>1</seq>
+        <maxAttempts></maxAttempts>
+        <waitTime></waitTime>
+
+      </report>
+      <report include="Y" mandatory="N" staticReport="Y" env="Local">
+        <name></name>
+        <ext>.pdf</ext>
+        <loc>.pdf</loc>
+        <seq></seq>
+        <maxAttempts></maxAttempts>
+        <waitTime></waitTime>
+        
+      </report>
+    </includeReports>
+  </combinedReport>
+</combiner>
